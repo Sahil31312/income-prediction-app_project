@@ -609,9 +609,12 @@ If you use this project in your research, please cite it as:
     Peers: Classmates for feedback and testing
     📧 Email: ibrahimkhil975@gmail.com
 
-## ⭐ If this project helps you, please give it a star! ⭐
-https://api.star-history.com/svg?repos=yourusername/income-prediction-system&type=Date
+## ⭐ If you like this project, give it a star!
+### It helps me know this project is useful and keeps it active.  
+[Click here to star the repo](https://github.com/Sahil31312/income-prediction-app_project/stargazers)
 
+ 
+ 
 ## Empowering Data-Driven Income Decisions
 ```
 *Last Updated: December 2024 | Version: 2.1.0 | Model: RF-2025-12-v1*
